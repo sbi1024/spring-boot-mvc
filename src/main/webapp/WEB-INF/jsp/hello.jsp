@@ -4,7 +4,6 @@
     <title>Hello JSP</title>
 </head>
 <body>
-<h1>Hello, JSP!</h1>
-<p>오늘도 좋은 하루 되세요 ☀️</p>
+    <h1>Hello, JSP!</h1>
 </body>
 </html>
